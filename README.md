@@ -33,5 +33,3 @@
 
 **Preview**
   -	https://garcia3325.github.io/Horiseon-Social-Solution/
-
-![image](https://user-images.githubusercontent.com/98600179/157541987-174d13ee-aaae-4377-859f-370ee3622135.png)
