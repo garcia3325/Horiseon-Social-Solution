@@ -33,4 +33,4 @@
 
 **Preview**
  
-   <img src="assets/images/Horison Solution Final Page.png" >
+   https://garcia3325.github.io/Horiseon-Social-Solution/index.html
