@@ -32,4 +32,4 @@
   -	CSS
 
 **Preview**
-  -	https://garcia3325.github.io/Horiseon-Social-Solution/
+   <img src="assets/images/Horison Solution Final Page.png" >
